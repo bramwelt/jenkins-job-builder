@@ -9,6 +9,7 @@ stages:
   - verify
   - build
   - test
+  - publish
 
 build:
   stage: build
